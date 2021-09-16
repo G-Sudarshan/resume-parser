@@ -7,6 +7,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZan3kPzv_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Home
 ![Main window](https://github.com/G-Sudarshan/resume-parser/blob/master/docs/main_window.PNG);
 
