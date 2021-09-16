@@ -7,7 +7,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZan3kPzv_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fZan3kPzv_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+## Youtube Video 📹
+### click on image to play video
+[![Alt text](https://img.youtube.com/vi/fZan3kPzv_E/0.jpg)](https://www.youtube.com/watch?v=fZan3kPzv_E)
+
 
 ## Home
 ![Main window](https://github.com/G-Sudarshan/resume-parser/blob/master/docs/main_window.PNG);
